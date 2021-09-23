@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>F:/_VS Projects/15TileGame/Content/Audio/backgroundMusic.wav</File>
+    <File>F:/_VS Projects/15TileGame/Content/Audio/buttonClick.mp3</File>
+    <File>F:/_VS Projects/15TileGame/Content/Audio/buttonHover.mp3</File>
+    <File>F:/_VS Projects/15TileGame/Content/Audio/puzzleSolved.mp3</File>
+    <File>F:/_VS Projects/15TileGame/Content/Audio/tileBreak.wav</File>
+    <File>F:/_VS Projects/15TileGame/Content/Audio/tileCannotMove.wav</File>
+    <File>F:/_VS Projects/15TileGame/Content/Audio/tileMove.wav</File>
+    <File>F:/_VS Projects/15TileGame/Content/Fonts/fontMain.spritefont</File>
+    <File>F:/_VS Projects/15TileGame/Content/Fonts/fontSmall.spritefont</File>
+    <File>F:/_VS Projects/15TileGame/Content/Fonts/fontTiles.spritefont</File>
+    <File>F:/_VS Projects/15TileGame/Content/Images/background_game.png</File>
+    <File>F:/_VS Projects/15TileGame/Content/Images/background_gameChallenge.png</File>
+    <File>F:/_VS Projects/15TileGame/Content/Images/background_info.png</File>
+    <File>F:/_VS Projects/15TileGame/Content/Images/background_menu.png</File>
+    <File>F:/_VS Projects/15TileGame/Content/Images/buttonDisabled.png</File>
+    <File>F:/_VS Projects/15TileGame/Content/Images/buttonHover.png</File>
+    <File>F:/_VS Projects/15TileGame/Content/Images/buttonInvert.png</File>
+    <File>F:/_VS Projects/15TileGame/Content/Images/buttonInvert2.png</File>
+    <File>F:/_VS Projects/15TileGame/Content/Images/buttonNormal.png</File>
+    <File>F:/_VS Projects/15TileGame/Content/Images/buttonReturn.png</File>
+    <File>F:/_VS Projects/15TileGame/Content/Images/buttonSound.png</File>
+    <File>F:/_VS Projects/15TileGame/Content/Images/buttonSound2.png</File>
+    <File>F:/_VS Projects/15TileGame/Content/Images/buttonTileNumbers.png</File>
+    <File>F:/_VS Projects/15TileGame/Content/Images/buttonTileNumbers2.png</File>
+    <File>F:/_VS Projects/15TileGame/Content/Images/overlayFailed.png</File>
+    <File>F:/_VS Projects/15TileGame/Content/Images/overlaySolved.png</File>
+    <File>F:/_VS Projects/15TileGame/Content/Images/overlayStart.png</File>
+    <File>F:/_VS Projects/15TileGame/Content/Images/overlayTitle.png</File>
+    <File>F:/_VS Projects/15TileGame/Content/Images/puzzleBath.png</File>
+    <File>F:/_VS Projects/15TileGame/Content/Images/puzzleCow.png</File>
+    <File>F:/_VS Projects/15TileGame/Content/Images/puzzleGiraffe.png</File>
+    <File>F:/_VS Projects/15TileGame/Content/Images/puzzlePierre.png</File>
+    <File>F:/_VS Projects/15TileGame/Content/Images/puzzleRainbow.png</File>
+    <File>F:/_VS Projects/15TileGame/Content/Images/tooltip.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
